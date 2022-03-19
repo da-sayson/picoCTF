@@ -1,0 +1,1 @@
+change flag to flag.txt and open the file
