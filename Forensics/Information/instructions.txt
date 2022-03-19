@@ -1,0 +1,2 @@
+go to this site and upload cat.jpeg to view metadata
+notice the license, copy the license, and decode the base64 string
