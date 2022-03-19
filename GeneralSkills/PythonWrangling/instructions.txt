@@ -1,0 +1,1 @@
+run python ende.py -d flag.txt.en; enter the contents of pw.txt as the password
